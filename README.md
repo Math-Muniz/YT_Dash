@@ -12,7 +12,7 @@ This project is a dash application that allows users to analyze statistics and d
 
 ## Dataset Used
 
-https://www.kaggle.com/datasets/kenjee/ken-jee-youtube-data
+Here is the dataset used in the project - https://www.kaggle.com/datasets/kenjee/ken-jee-youtube-data
 
 ## Link for this App
 
